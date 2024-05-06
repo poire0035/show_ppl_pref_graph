@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# 都道府県別の総人口推移グラフを表示するアプリ
 
 ## gitHubのURL
 
